@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Arora</h1>
 <h3 align="center">A passionate Arch Linux user with ever-growing respect for people working in the open source communities.</h3>
 
-- 🔭 I’m currently working on [beta - a linear algebra library](https://github.com/ashok-arora/beta)
+- 🔭 I’m currently working on [Matrix - a linear algebra library](https://github.com/mlcpp/Matrix)
 
 - 🌱 I’m currently learning **Google Test Suites**
 
