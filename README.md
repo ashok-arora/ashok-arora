@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashok Arora</h1>
 <h3 align="center">A passionate Arch Linux user with ever-growing respect for people working in the open source communities.</h3>
 
-- 🔭 I’m currently working on [sandOS - a hobby OS](https://github.com/ashok-arora/sandOS)
+# - 🔭 I’m currently working on [sandOS - a hobby OS](https://github.com/ashok-arora/sandOS)
 
-- 🌱 I’m currently learning **OS Development**
+- 🌱 I’m currently learning about **Docker Containers**
 
 - 👯 I’m looking to collaborate on [Matrix - a linear algebra library](https://github.com/mlcpp/Matrix)
 
