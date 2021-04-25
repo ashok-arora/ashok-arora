@@ -2,13 +2,9 @@
 <h3 align="center">I am a Sophomore at IIIT Gwalior with interest in Docker and Continuous Integration (CI). I have worked with Github Actions on some personal projects and and on <a href="https://github.com/mlcpp/Matrix"> Matrix</a>.</h3>
 
 - 🔭 I’m currently working on [Matrix](https://github.com/mlcpp/Matrix), a linear algebra library for C++.
-- 
 - 🌱 I’m currently learning about Docker containers and GCP.
-- 
 - 👯 I’m a co-founder of the open source organization [mlcpp](https://github.com/mlcpp).
-- 
 - 💬 Ask me about Devops and Automation.
-- 
 - 📫 How to reach me: arora8715@gmail.com
 
 
